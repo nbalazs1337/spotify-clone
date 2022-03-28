@@ -1,0 +1,15 @@
+C:\Users\negre\source\repos\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\Users\negre\source\repos\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\Users\negre\source\repos\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.csproj.AssemblyReference.cache
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.Form1.resources
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.pdb
+C:\Users\negre\source\repos\Tema1\Tema1\bin\Debug\Interop.WMPLib.dll
+C:\Users\negre\source\repos\Tema1\Tema1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Interop.WMPLib.dll
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\negre\source\repos\Tema1\Tema1\obj\Debug\Tema1.csproj.ResolveComReference.cache
